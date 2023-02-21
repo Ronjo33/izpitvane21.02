@@ -1,0 +1,8 @@
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\bin\Debug\21.02.2023 izpitvane.exe.config
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\bin\Debug\21.02.2023 izpitvane.exe
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\bin\Debug\21.02.2023 izpitvane.pdb
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\obj\Debug\21.02.2023 izpitvane.csproj.AssemblyReference.cache
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\obj\Debug\21.02.2023 izpitvane.csproj.SuggestedBindingRedirects.cache
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\obj\Debug\21.02.2023 izpitvane.csproj.CoreCompileInputs.cache
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\obj\Debug\21.02.2023 izpitvane.exe
+C:\Nikoleta i MIGLENA 11D\21.02.2023 izpitvane\obj\Debug\21.02.2023 izpitvane.pdb
